@@ -4,4 +4,4 @@
 
 Я построила минималистичный дашборд в Power BI с возможностью фильтрации по годам, единицам измерения, направлению перемещения (экспорт / импорт), а также некоторыми дополнительными фильтрами для отдельных графиков.  
 
-С работой можно ознакомиться в [PDF](https://github.com/timurshinalu/dashboards/blob/main/sausage_dashboard%20(pbi)/dashboard_sausage_pdf.pdf) или скачать [PBIX](http://example.com/) файл для полной функциональности.
+С работой можно ознакомиться в [PDF](https://github.com/timurshinalu/dashboards/blob/main/sausage_dashboard%20(pbi)/dashboard_sausage_pdf.pdf) или скачать [PBIX](https://github.com/timurshinalu/dashboards/blob/main/sausage_dashboard%20(pbi)/dashboard_sausage.pbix) файл для полной функциональности.
